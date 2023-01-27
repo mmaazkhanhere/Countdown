@@ -1,4 +1,5 @@
 # Countdown
+A countdown timer where the user will input time in hour, minutes, and seconds. It will end when all hours, minutes, and seconds gets zero
 
 To initialise project and create .json file, in terminal type npm init -y
 
